@@ -1,6 +1,6 @@
 '''
-Portfolio Project : Stealth Game
-By: Justin White / Poppo7
+Typing/Stealth Game
+By: Poppo7
 '''
 # !BEFORE STARTING! in the terminal type: "pip install inputimeout" in order for the game to work.
 # inputimeout is used by allowing you to specify a timeout.

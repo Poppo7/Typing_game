@@ -1,6 +1,6 @@
 '''
-Portfolio Project : Stealth Game
-By: Justin White / Poppo7
+Typing/Stealth Game
+By: Poppo7
 '''
 # menu_module.py
 
