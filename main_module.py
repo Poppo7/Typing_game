@@ -19,14 +19,13 @@ def display_intro(difficulty):
 # Display sentences 
 def generate_sentence():
     sentences = [
-        "Hi there, hope you are doing great!"
+        "Hi there, hope you are doing great!",
         "The quick brown fox jumps over the lazy dog.",
         "How is your progress so far?",
         "Python is a versatile programming language.",
         "Stealth is the key to success.",
         "Type your way to victory.",
         "You can master anything if you discipline yourself.",
-        "My grandpa's deck has no pathetic cards!",
         "Nope.",
         "Monday, Tuesday, Wednesday",
         "The classical guitar is different than an acoustic.",
@@ -70,6 +69,37 @@ def generate_sentence():
         "Power Geyser, Rising Upper, Power Wave",
         "Slow and steady wins the race.",
         "What did 0 say to 8? Nice belt.",
+        # Additional sentences for now
+        "JavaScript and Python are popular languages for web development.",
+        "To be or not to be, that is the question.",
+        "A stitch in time saves nine.",
+        "Every cloud has a silver lining.",
+        "You miss 100% of the shots you don't take.",
+        "When life gives you lemons, make lemonade.",
+        "Fortune favors the bold.",
+        "Practice makes perfect.",
+        "Don't put all your eggs in one basket.",
+        "A journey of a thousand miles begins with a single step.",
+        "Keep your friends close and your enemies closer.",
+        "All that glitters is not gold.",
+        "Brevity is the soul of wit.",
+        "The early bird catches the worm.",
+        "Actions speak louder than words.",
+        "Beauty is in the eye of the beholder.",
+        "Curiosity killed the cat.",
+        "Don't count your chickens before they hatch.",
+        "Necessity is the mother of invention.",
+        "Opportunity knocks but once.",
+        "Silence is golden.",
+        "Honesty is the best policy.",
+        "Laughter is the best medicine.",
+        "Knowledge is power.",
+        "No pain, no gain.",
+        "An apple a day keeps the doctor away.",
+        "Better late than never.",
+        "The pen is mightier than the sword.",
+        "Two wrongs don't make a right.",
+        "A picture is worth a thousand words.",
     ]
     
     # Add random function so the sentences can shuffle
